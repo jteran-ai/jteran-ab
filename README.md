@@ -1,2 +1,2 @@
 # jteran-ai-
-Holocode 
+Holocode by Teran
